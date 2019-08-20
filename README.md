@@ -1,4 +1,4 @@
-# 삼성대비 SW 알고리즘 (2019. 07. 01 ~ ing)
+# SW 알고리즘 (2019. 07. 01 ~ ing)
 ## SWEA
   - **1204** [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D2]
   - **1208** [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D3]
