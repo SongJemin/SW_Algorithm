@@ -3,7 +3,7 @@
   - **1204** [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D2]
   - **1208** [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D3]
   - **1210** [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D4]
-  - **1213** [String](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi&categoryId=AV14P0c6AAUCFAYi&categoryType=CODE)
+  - **1213** [String](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi&categoryId=AV14P0c6AAUCFAYi&categoryType=CODE) [문제해결]
   - **1209** [Sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE) [D3]
   - **1218** [괄호 짝짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD&categoryId=AV14eWb6AAkCFAYD&categoryType=CODE) [D4]
   - **1223** [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD&categoryId=AV14nnAaAFACFAYD&categoryType=CODE) [D4]
