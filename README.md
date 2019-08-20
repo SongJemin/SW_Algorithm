@@ -1,4 +1,4 @@
-# 제민이의 삼성대비 SW 알고리즘
+# 제민이의 삼성대비 SW 알고리즘 (2019. 07. 01 ~ ing)
 ## SWEA
   - **1209** [Sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE)
   - **1218** [괄호 짝짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD&categoryId=AV14eWb6AAkCFAYD&categoryType=CODE)
