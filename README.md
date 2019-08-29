@@ -33,11 +33,12 @@
 ## Baekjoon
   - **1012** [유기농 배추](https://www.acmicpc.net/problem/1012)
   - **2468** [안전 영역](https://www.acmicpc.net/problem/16234)
-  - **16234** [인구 이동](https://www.acmicpc.net/problem/16234)
-  - **17142** [연구소3](https://www.acmicpc.net/problem/17142)
-  - **17143** [낚시왕](https://www.acmicpc.net/problem/17143)
-  - **17144** [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+  - **16234** [인구 이동](https://www.acmicpc.net/problem/16234) [삼성기출]
+  - **17142** [연구소3](https://www.acmicpc.net/problem/17142) [삼성기출]
+  - **17143** [낚시왕](https://www.acmicpc.net/problem/17143) [삼성기출]
+  - **17144** [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) [삼성기출]
   - **17406** [배열 돌리기4](https://www.acmicpc.net/problem/17406)
+  - **17140** [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) [삼성기출]
   
 ## Jungol
   - **1809** [탑](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1082&sca=30&sfl=wr_hit&stx=1809&sop=and)
