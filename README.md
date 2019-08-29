@@ -28,7 +28,10 @@
   - **5431** [민석이의 과제 체크하기](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D3]
   - **5432** [쇠막대기 자르기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm&categoryId=AWVl47b6DGMDFAXm&categoryType=CODE) [D4]
   - **5644** [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE) [모의]
+  - **6730** [장애물 경주 난이도](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh&categoryId=AWefy5x65PoDFAUh&categoryType=CODE) [D3]
+  - **7272** [안경이 없어!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz&categoryId=AWl0ZQ8qn7UDFAXz&categoryType=CODE) [D3]
   - **7699** [수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG&categoryId=AWqUzj0arpkDFARG&categoryType=CODE) [D4]
+  - **8104** [조 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWwXCn2KQjEDFATu&categoryId=AWwXCn2KQjEDFATu&categoryType=CODE) [
 
 ## Baekjoon
   - **1012** [유기농 배추](https://www.acmicpc.net/problem/1012)
