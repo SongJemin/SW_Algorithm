@@ -31,7 +31,7 @@
   - **6730** [장애물 경주 난이도](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh&categoryId=AWefy5x65PoDFAUh&categoryType=CODE) [D3]
   - **7272** [안경이 없어!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz&categoryId=AWl0ZQ8qn7UDFAXz&categoryType=CODE) [D3]
   - **7699** [수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG&categoryId=AWqUzj0arpkDFARG&categoryType=CODE) [D4]
-  - **8104** [조 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWwXCn2KQjEDFATu&categoryId=AWwXCn2KQjEDFATu&categoryType=CODE) [
+  - **8104** [조 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWwXCn2KQjEDFATu&categoryId=AWwXCn2KQjEDFATu&categoryType=CODE) [D3]
 
 ## Baekjoon
   - **1012** [유기농 배추](https://www.acmicpc.net/problem/1012)
