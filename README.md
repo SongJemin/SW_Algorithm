@@ -20,6 +20,7 @@
   - **1266** [소수 완제품 확률](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18Sx36IwACFAZN&categoryId=AV18Sx36IwACFAZN&categoryType=CODE) [D6]
   - **1289** [원재의 메모리 복구](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D3]
   - **1494** [사랑의 카운슬러](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b_WPaAEIBBASw&categoryId=AV2b_WPaAEIBBASw&categoryType=CODE) [D4]
+  - **1861** [정사각형방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc&categoryId=AV5LtJYKDzsDFAXc&categoryType=CODE) [D4]
   - **1954** [달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE) [D2]
   - **2007** [패턴 마디의 길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq) [D2]
   - **2063** [중간값 찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D1]
