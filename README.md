@@ -40,6 +40,7 @@
 ## Baekjoon
   - **1012** [유기농 배추](https://www.acmicpc.net/problem/1012)
   - **2468** [안전 영역](https://www.acmicpc.net/problem/16234)
+  - **15686** [치킨 배달](https://www.acmicpc.net/problem/15686) [삼성기출]
   - **16234** [인구 이동](https://www.acmicpc.net/problem/16234) [삼성기출]
   - **16236** [아기 상어](https://www.acmicpc.net/problem/16236) [삼성기출]
   - **17142** [연구소3](https://www.acmicpc.net/problem/17142) [삼성기출]
