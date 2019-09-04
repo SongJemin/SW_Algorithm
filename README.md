@@ -41,6 +41,7 @@
   - **1012** [유기농 배추](https://www.acmicpc.net/problem/1012)
   - **2468** [안전 영역](https://www.acmicpc.net/problem/16234)
   - **16234** [인구 이동](https://www.acmicpc.net/problem/16234) [삼성기출]
+  - **16236** [아기 상어](https://www.acmicpc.net/problem/16236) [삼성기출]
   - **17142** [연구소3](https://www.acmicpc.net/problem/17142) [삼성기출]
   - **17143** [낚시왕](https://www.acmicpc.net/problem/17143) [삼성기출]
   - **17144** [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) [삼성기출]
