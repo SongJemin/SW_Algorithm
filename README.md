@@ -43,10 +43,11 @@
   - **15686** [치킨 배달](https://www.acmicpc.net/problem/15686) [삼성기출]
   - **16234** [인구 이동](https://www.acmicpc.net/problem/16234) [삼성기출]
   - **16236** [아기 상어](https://www.acmicpc.net/problem/16236) [삼성기출]
+  - **17135** [캐슬 디펜스](https://www.acmicpc.net/problem/17135)[A형기출]
   - **17142** [연구소3](https://www.acmicpc.net/problem/17142) [삼성기출]
   - **17143** [낚시왕](https://www.acmicpc.net/problem/17143) [삼성기출]
   - **17144** [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) [삼성기출]
-  - **17406** [배열 돌리기4](https://www.acmicpc.net/problem/17406)
+  - **17406** [배열 돌리기4](https://www.acmicpc.net/problem/17406) [A형기출]
   - **17140** [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) [삼성기출]
   
 ## Jungol
