@@ -47,6 +47,7 @@
   - **17142** [연구소3](https://www.acmicpc.net/problem/17142) [삼성기출]
   - **17143** [낚시왕](https://www.acmicpc.net/problem/17143) [삼성기출]
   - **17144** [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) [삼성기출]
+  - **17136** [색종이 붙이기](https://www.acmicpc.net/problem/17136) [A형기출]
   - **17406** [배열 돌리기4](https://www.acmicpc.net/problem/17406) [A형기출]
   - **17140** [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) [삼성기출]
   
