@@ -54,6 +54,7 @@
   - **17281** [⚾](https://www.acmicpc.net/problem/17281) [A형기출]
   - **17406** [배열 돌리기4](https://www.acmicpc.net/problem/17406) [A형기출]
   - **17140** [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) [삼성기출]
+  - **17141** [개리멘더링](https://www.acmicpc.net/problem/17471) [A형기출]
   
 ## Jungol
   - **1103** [경비원](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=383&sca=50&sfl=wr_hit&stx=1103&sop=and)
