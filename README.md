@@ -1,4 +1,4 @@
-# SW 알고리즘 (2019. 07. 01 ~ ing).
+# SW 알고리즘 (2019. 07. 01 ~ ing)
 ## SWEA
   - **1204** [최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do) [D2]
   - **1206** [View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE) [D3]
@@ -56,6 +56,7 @@
   - **17406** [배열 돌리기4](https://www.acmicpc.net/problem/17406) [A형기출]
   - **17140** [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) [삼성기출]
   - **17141** [개리멘더링](https://www.acmicpc.net/problem/17471) [A형기출]
+  - **17472** [다리 만들기2](https://www.acmicpc.net/problem/17472) [A형기출]
   
 ## Jungol
   - **1103** [경비원](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=383&sca=50&sfl=wr_hit&stx=1103&sop=and)
