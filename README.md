@@ -43,6 +43,7 @@
   - **2468** [안전 영역](https://www.acmicpc.net/problem/16234)
   - **4963** [섬의 개수](https://www.acmicpc.net/problem/4963)
   - **14889** [스타트와 링크](https://www.acmicpc.net/problem/14889) [삼성기출]
+  - **15685** [드래곤 커브](https://www.acmicpc.net/problem/15685) [삼성기출]
   - **15686** [치킨 배달](https://www.acmicpc.net/problem/15686) [삼성기출]
   - **16234** [인구 이동](https://www.acmicpc.net/problem/16234) [삼성기출]
   - **16235** [나무재테크](https://www.acmicpc.net/problem/16235) [삼성기출]
