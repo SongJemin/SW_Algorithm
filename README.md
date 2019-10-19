@@ -42,6 +42,7 @@
   - **1012** [유기농 배추](https://www.acmicpc.net/problem/1012)
   - **2468** [안전 영역](https://www.acmicpc.net/problem/16234)
   - **4963** [섬의 개수](https://www.acmicpc.net/problem/4963)
+  - **13460** [구슬 탈출2](https://www.acmicpc.net/problem/13460) [삼성기출]
   - **14889** [스타트와 링크](https://www.acmicpc.net/problem/14889) [삼성기출]
   - **15685** [드래곤 커브](https://www.acmicpc.net/problem/15685) [삼성기출]
   - **15686** [치킨 배달](https://www.acmicpc.net/problem/15686) [삼성기출]
