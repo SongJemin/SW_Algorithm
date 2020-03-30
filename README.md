@@ -54,6 +54,7 @@
   - **16234** [인구 이동](https://www.acmicpc.net/problem/16234) [삼성기출]
   - **16235** [나무재테크](https://www.acmicpc.net/problem/16235) [삼성기출]
   - **16236** [아기 상어](https://www.acmicpc.net/problem/16236) [삼성기출]
+  - **16926** [배열돌리기1](https://www.acmicpc.net/problem/16926)
   - **17070** [파이프 옮기기1](https://www.acmicpc.net/problem/17070) [A형기출]
   - **17071** [숨바꼭질5](https://www.acmicpc.net/problem/17071)
   - **17135** [캐슬 디펜스](https://www.acmicpc.net/problem/17135) [A형기출]
