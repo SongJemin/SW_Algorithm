@@ -78,6 +78,7 @@
   
   ## Programmers
    - **KAKAO_BLIND_2020_1** [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+   - **KAKAO_BLIND_2020_2** [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
    - **KAKAO_BLIND_2020_3** [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
    - **KAKAO_BLIND_2019_1** [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
    - **KAKAO_BLIND_2019_2** [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
