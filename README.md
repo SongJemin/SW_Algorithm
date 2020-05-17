@@ -87,3 +87,4 @@
    - **KAKAO_BLIND_2019_5** [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
    - **KAKAO_BLIND_2018_1차** [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
    - **KAKAO_BLIND_2018_1차** [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+   - **KAKAO_BLIND_2018_3차** [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
