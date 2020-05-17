@@ -44,6 +44,7 @@
 
 ## Baekjoon
   - **1012** [유기농 배추](https://www.acmicpc.net/problem/1012)
+  - **2042** [구간 합 구하기](https://www.acmicpc.net/problem/2042)
   - **2468** [안전 영역](https://www.acmicpc.net/problem/16234)
   - **4963** [섬의 개수](https://www.acmicpc.net/problem/4963)
   - **7490** [0 만들기](https://www.acmicpc.net/problem/7490)
