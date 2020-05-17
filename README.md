@@ -86,3 +86,4 @@
    - **KAKAO_BLIND_2019_4** [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
    - **KAKAO_BLIND_2019_5** [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
    - **KAKAO_BLIND_2018_1차** [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+   - **KAKAO_BLIND_2018_1차** [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
