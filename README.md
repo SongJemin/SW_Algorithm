@@ -67,16 +67,8 @@
   - **17140** [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) [삼성기출]
   - **17141** [개리멘더링](https://www.acmicpc.net/problem/17471) [A형기출]
   - **17472** [다리 만들기2](https://www.acmicpc.net/problem/17472) [A형기출]
-  
-## Jungol
-  - **1103** [경비원](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=383&sca=50&sfl=wr_hit&stx=1103&sop=and)
-  - **1733** [오목](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1006&sca=20)
-  - **1809** [탑](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1082&sca=30&sfl=wr_hit&stx=1809&sop=and)
-  - **2247** [도서관](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1508&sca=50&sfl=wr_hit&stx=2247&sop=and)
-  - **2543** [타일 채우기](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1804&sca=50&sfl=wr_hit&stx=2543&sop=and)
-  - **2577** [회전초밥(고)](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1838&sca=50)
-  
-  ## Programmers
+ 
+## Programmers
    - **KAKAO_BLIND_2020_1** [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
    - **KAKAO_BLIND_2020_2** [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
    - **KAKAO_BLIND_2020_3** [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
@@ -88,3 +80,12 @@
    - **KAKAO_BLIND_2018_1차** [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
    - **KAKAO_BLIND_2018_1차** [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
    - **KAKAO_BLIND_2018_3차** [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
+  
+## Jungol
+  - **1103** [경비원](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=383&sca=50&sfl=wr_hit&stx=1103&sop=and)
+  - **1733** [오목](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1006&sca=20)
+  - **1809** [탑](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1082&sca=30&sfl=wr_hit&stx=1809&sop=and)
+  - **2247** [도서관](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1508&sca=50&sfl=wr_hit&stx=2247&sop=and)
+  - **2543** [타일 채우기](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1804&sca=50&sfl=wr_hit&stx=2543&sop=and)
+  - **2577** [회전초밥(고)](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1838&sca=50)
+  
