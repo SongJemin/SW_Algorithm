@@ -49,6 +49,7 @@
   - **2042** [구간 합 구하기](https://www.acmicpc.net/problem/2042)
   - **2468** [안전 영역](https://www.acmicpc.net/problem/16234)
   - **4963** [섬의 개수](https://www.acmicpc.net/problem/4963)
+  - **6118** [숨바꼭질](https://www.acmicpc.net/problem/6118)
   - **7490** [0 만들기](https://www.acmicpc.net/problem/7490)
   - **13460** [구슬 탈출2](https://www.acmicpc.net/problem/13460) [삼성기출]
   - **14889** [스타트와 링크](https://www.acmicpc.net/problem/14889) [삼성기출]
