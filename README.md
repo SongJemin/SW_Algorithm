@@ -51,6 +51,7 @@
   - **4963** [섬의 개수](https://www.acmicpc.net/problem/4963)
   - **6118** [숨바꼭질](https://www.acmicpc.net/problem/6118)
   - **7490** [0 만들기](https://www.acmicpc.net/problem/7490)
+  - **11404** [플로이드](https://www.acmicpc.net/problem/11404)
   - **13460** [구슬 탈출2](https://www.acmicpc.net/problem/13460) [삼성기출]
   - **14889** [스타트와 링크](https://www.acmicpc.net/problem/14889) [삼성기출]
   - **15685** [드래곤 커브](https://www.acmicpc.net/problem/15685) [삼성기출]
