@@ -86,6 +86,7 @@
    - **KAKAO_BLIND_2018_1차** [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
    - **KAKAO_BLIND_2018_3차** [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
    - **KAKAO_SUMMER_INTERN_2020_1** [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+   - **KAKAO_SUMMER_INTERN_2020_2** [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
   
 ## Jungol
   - **1103** [경비원](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=383&sca=50&sfl=wr_hit&stx=1103&sop=and)
